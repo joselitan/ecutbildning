@@ -1,2 +1,3 @@
 updating file with new text
 updating file with a second row (<--second row)
+updating file with a third row (<--third row)
